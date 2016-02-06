@@ -25,7 +25,6 @@ $(function() {
 		footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved.',
 		mode: 'Github',
 		githubUserSettings: {username: 'redstripesigns',repo: 'site'},
-		githubSettings: {branch: 'gh-pages', host: 'https://api.github.com'}
 	});
 	
 	// Markdown settings
